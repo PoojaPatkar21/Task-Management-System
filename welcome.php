@@ -13,6 +13,7 @@ if (!isset($_SESSION['username'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" style="background">
+    <link rel="stylesheet" href="page.css" type="text/css" media="screen" charset="utf-8">
     <title>Welcome</title>
 </head>
 <body>
